@@ -1,3 +1,6 @@
+// SDK for interacting with the ICPSig multisig dapp
+
+
 class ICPSigSDK {
   constructor() {
     // Initialize the SDK
