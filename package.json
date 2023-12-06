@@ -1,0 +1,22 @@
+{
+  "name": "icpsig-sdk",
+  "version": "0.0.1",
+  "description": "SDK for ICPsig",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICPsig/icpsig-sdk.git"
+  },
+  "keywords": [
+    "internet-computer"
+  ],
+  "author": "niklabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ICPsig/icpsig-sdk/issues"
+  },
+  "homepage": "https://github.com/ICPsig/icpsig-sdk#readme"
+}
